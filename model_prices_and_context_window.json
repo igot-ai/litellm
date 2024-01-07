@@ -527,7 +527,7 @@
     },
     "gemini-pro": {
         "max_tokens": 30720,
-        "max_output_tokens": 2048,
+        "max_output_tokens": 8192,
         "input_cost_per_token": 0.00000025, 
         "output_cost_per_token": 0.0000005,
         "litellm_provider": "vertex_ai-language-models",
