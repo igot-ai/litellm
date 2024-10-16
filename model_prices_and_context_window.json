@@ -3469,6 +3469,17 @@
         "litellm_provider": "replicate",
         "mode": "chat"
     },
+    "openrouter/meta-llama/llama-3.2-11b-vision-instruct": {
+        "max_tokens": 16384,
+        "max_input_tokens": 16384,
+        "max_output_tokens": 16384,
+        "input_cost_per_token": 0.0000002, 
+        "output_cost_per_token": 0.0000002,
+        "litellm_provider": "openrouter", 
+        "mode": "chat",
+        "supports_function_calling": true,
+        "supports_vision": true
+    },
     "openrouter/qwen/qwen-2-vl-72b-instruct": {
         "max_tokens": 32768,
         "max_input_tokens": 32768,
