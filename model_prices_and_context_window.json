@@ -5400,7 +5400,7 @@
         "litellm_provider": "sagemaker",
         "mode": "chat"
     },
-    "together_ai/DeepSeek-R1": {
+    "together_ai/deepseek-ai/DeepSeek-R1": {
         "max_tokens": 8192,
         "max_input_tokens": 128000,
         "max_output_tokens": 8192,
@@ -5414,7 +5414,7 @@
         "supports_tool_choice": true,
         "supports_prompt_caching": true
     },
-    "together_ai/DeepSeek-V3": {
+    "together_ai/deepseek-ai/DeepSeek-V3": {
         "max_tokens": 8192,
         "max_input_tokens": 128000,
         "max_output_tokens": 8192,
