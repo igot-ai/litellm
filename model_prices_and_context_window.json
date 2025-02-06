@@ -5414,7 +5414,37 @@
         "supports_tool_choice": true,
         "supports_prompt_caching": true
     },
+    "deepseek-ai/DeepSeek-R1": {
+        "max_tokens": 8192,
+        "max_input_tokens": 128000,
+        "max_output_tokens": 8192,
+        "input_cost_per_token": 0.00000055,
+        "input_cost_per_token_cache_hit": 0.00000014,
+        "output_cost_per_token": 0.00000219,
+        "litellm_provider": "together_ai",
+        "mode": "chat",
+        "supports_function_calling": true, 
+        "supports_assistant_prefill": true,
+        "supports_tool_choice": true,
+        "supports_prompt_caching": true
+    },
     "together_ai/deepseek-ai/DeepSeek-V3": {
+        "max_tokens": 8192,
+        "max_input_tokens": 128000,
+        "max_output_tokens": 8192,
+        "input_cost_per_token": 0.00000014,
+        "input_cost_per_token_cache_hit": 0.000000014,
+        "cache_read_input_token_cost": 0.000000014,
+        "cache_creation_input_token_cost": 0.0,
+        "output_cost_per_token": 0.00000028,
+        "litellm_provider": "together_ai",
+        "mode": "chat",
+        "supports_function_calling": true, 
+        "supports_assistant_prefill": true,
+        "supports_tool_choice": true,
+        "supports_prompt_caching": true
+    },
+    "deepseek-ai/DeepSeek-V3": {
         "max_tokens": 8192,
         "max_input_tokens": 128000,
         "max_output_tokens": 8192,
