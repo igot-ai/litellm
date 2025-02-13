@@ -5606,7 +5606,7 @@
         "supports_tool_choice": true,
         "supports_prompt_caching": true
     },
-    "deepseek-ai/DeepSeek-R1": {
+    "deepseek-ai/deepseek-r1": {
         "max_tokens": 8192,
         "max_input_tokens": 128000,
         "max_output_tokens": 8192,
@@ -5636,7 +5636,7 @@
         "supports_tool_choice": true,
         "supports_prompt_caching": true
     },
-    "deepseek-ai/DeepSeek-V3": {
+    "deepseek-ai/deepseek-v3": {
         "max_tokens": 8192,
         "max_input_tokens": 128000,
         "max_output_tokens": 8192,
